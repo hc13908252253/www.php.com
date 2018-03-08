@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Welcome</title>
+ </head>
+ <body>
+  <strong><font size="20" color="#336666">你好！</strong><br>
+  <br><br></font>
+ <font size="30" color="#ff0000"><strong><center>欢迎你来到WWW.php.com网站。</center></strong><br>
+
+
+ <a href=".//welcome.html">第2面</a>
+  <br><br><br></font>
+  <font size="25" color="#330000">这个网站是PHP学习场地，正在进一步完善之中......
+ <br><br><br><br><br><br><br><br><br></font>
+  
+   <footer>
+   <div>
+   <hr>
+   <center><H3>&copy;重庆工贸职业技术学院&middot;计算机教研室301<sup>#</sup></h3</center><br>
+   </div>
+  </footer>
+ </body>
+</html>
