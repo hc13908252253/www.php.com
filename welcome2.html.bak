@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>			我的第一个页面		</title>
+	</head>
+	<body>
+	<br><br><br>
+	<h1>&nbsp;&nbsp;你好：</h1>
+	<br>
+<br>
+<br>
+
+		<center><h1>欢迎你到重庆工贸学院。</h1>
+				
+				<H2><a href="http://www.cqgmy.cn">重庆工贸学院</a></H2><br>		
+			<img   src="./123.PNG"/>
+			
+		</center>
+	</body>
+</html>
